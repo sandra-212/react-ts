@@ -1,0 +1,1 @@
+export { samplePatientData } from './SamplePatientData';

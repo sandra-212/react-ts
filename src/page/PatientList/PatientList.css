@@ -1,0 +1,18 @@
+.patientList {
+  margin: 1rem;
+  width: fit-content;
+}
+
+.patientList :not(:last-child) {
+  margin-bottom: 1rem;
+}
+
+.patientList table thead tr *,
+.patientList table tbody tr * {
+  padding: 0.5rem 1rem;
+}
+
+a {
+  color: blue;
+  text-decoration: none; /* no underline */
+}
